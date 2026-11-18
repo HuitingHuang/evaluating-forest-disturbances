@@ -8,8 +8,6 @@ This project analyzes how vegetation responds to different climatic conditions (
 
 My specific contribution to this project was analyzing how vegetation responds to prescribed fires in the Central Appalachians. I developed the Python analytical pipeline to compare unburned and burned forest areas categorized by post-fire time intervals under both dry and wet conditions. The vegetation indices were derived from Google Earth Engine (GEE) imagery during the growing seasons of 2002 (dry) and 2003 (wet).
 
-The GEE script and Python notebooks in this repository, including data cleaning, geoprocessing, and visualization for the fire analysis, represent my individual work on the project.
-
 ### Repository Structure
 *   **`GEE_scripts.js`**: Google Earth Engine script used to generate the base GeoTiff files.
 *   **`Python/`**: Folder containing Jupyter Notebooks for geospatial data cleaning, geoprocessing, and visualization. 
